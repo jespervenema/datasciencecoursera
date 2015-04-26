@@ -11,6 +11,6 @@ Now, both datatables have a similar column structure, each with a different numb
 6. construction of a compact dataset by selecting the relevant columns as "compactMergedDB"
 (the columns are selected using the "grep" function incorporating the textual identiers of the mean() and std() variables)
 
-7. Cleansing of the column names: I choose to retain the identifying variables "activity" and "person" while renaming the descriptive variables as 1 to 66. These variables can be sees in the Label discriptor file.
+7. Cleansing of the column names: I choose to retain the identifying variables "activity" and "person" while renaming the descriptive variables as 1 to 66. These variables can be sees in the CodeBook.md file.
 
 8. Writing of an output files: averages grouped by the identifying variables "activity" and "person".
