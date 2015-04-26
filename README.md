@@ -1,6 +1,6 @@
 This program reads the necessary text files and computes a summary table as follows:
 
-1. the Activities (in the "y-test" and "y_train" files) are appropiately renamed
+1. the Activities (in the "y_test" and "y_train" files) are appropiately renamed
 2. the main two data tables ("test" and "trains") have column names added from the "features" file
 3. the renamed Activities ("activities_test" and "activities_train" respectivaly) added to both databases as a new variable named "activity"
 4. similarly, a "Person" variable ("Subject_test" and "Subject_train" respectivaly) is added to both databases
